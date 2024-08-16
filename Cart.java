@@ -1,13 +1,13 @@
 // ========================================================================
-// Name        : 2200169efolioA
-// Author      : bmfernandes
-// Description : BrunoMiguelFernandes_2200169_efolioA
+// Name        : efolioA
+// Author      : 
+// Description : 
 // Date        : 06.05.2024
 // 
 // NOTAS       :
 // 
 // 
-// 2200169efolioA-LdP
+// efolioA-LdP
 // ============================================================================
 // Cart.java
 import java.util.ArrayList;

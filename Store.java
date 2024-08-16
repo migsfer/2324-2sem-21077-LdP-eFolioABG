@@ -1,13 +1,13 @@
 // ========================================================================
-// Name        : 2200169efolioB
-// Author      : bmfernandes
-// Description : BrunoMiguelFernandes_2200169_efolioB
+// Name        : efolioB
+// Author      : 
+// Description : 
 // Date        : 26.05.2024
 // 
 // NOTAS       :
 // 
 // 
-// 2200169efolioB-LdP
+// efolioB-LdP
 // ============================================================================
 // Store.java
 import java.io.BufferedReader;

@@ -6,7 +6,7 @@
 // 
 // 
 // efolioA-LdP
-// ============================================================================
+// ========================================================================
 
 Escrevo aqui as notas para compilar o código entregue para este efolioA
 o meu ambiente é GNU/Linux Debian12
