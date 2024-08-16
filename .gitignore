@@ -1,0 +1,14 @@
+# ignore Java compiled class files
+*.class
+
+# ignore OCaml compiled files
+*.cmo
+*.cmi
+
+# ignore .pdf and .zip files
+*.zip
+*.pdf
+
+# ignore other files or directories
+# example: ignore a directory
+# /path/to/directory/
